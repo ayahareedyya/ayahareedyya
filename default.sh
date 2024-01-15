@@ -31,7 +31,6 @@ EXTENSIONS=(
 )
 
 CHECKPOINT_MODELS=(
-    "https://civitai.com/api/download/models/259323?type=Model&format=SafeTensor&size=full&fp=fp32"
     "https://civitai.com/api/download/models/268861?type=Model&format=SafeTensor&size=pruned&fp=fp16"
 )
 
